@@ -1,4 +1,4 @@
-**How to run Rust and WebAssembly on Windows***
+****How to run Rust and WebAssembly on Windows****
 
 I really went through a whole lot before i finally got this to work simply because i use windows, so i feel it would be helpful to share the process with other window users.
 
