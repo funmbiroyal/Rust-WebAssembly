@@ -3,7 +3,7 @@
 I really went through a whole lot before i finally got this to work simply because i use windows, so i feel it would be helpful to share the process with other window users.
 
 STEPS
-1. The first thing is to install WSL (Windows sub-linux) This helps your windows behaves like linux that was why it was called windows sub-linux. Without this,any operation that is meant for linux won't work on windows. In essence, it gives you a way of simulating linux ,yet windows. So that stuffs that are for linux can convieniently run on windows.
+1. The first thing is to install WSL (Windows sub-linux) This helps your windows behaves like linux that was why it was called windows sub-linux. Without this, any operation that is meant for linux won't work on windows. In essence, it gives you a way of simulating linux ,yet windows. So that stuffs that are for linux can convieniently run on windows.
 
 You can now install everything you need to run Windows Subsystem for Linux (WSL) by entering this command in PowerShell or Windows Command Prompt and then restarting your machine.
 
